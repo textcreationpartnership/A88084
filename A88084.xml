@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to a letter sent to a gentleman of the Middle-Temple. Concerning the late various and strange changes of the times, together with certain queries not unworthy the consideration of the High Court of Parliament; and of all honest and religious men, that tenders the peace and wellfare of the Church and English nation. And also a clear way discovered whereby at least a million of money may be bought into the publick treasury for the use of the Common-wealth. By Tho. Le VVhite. Esq.</title>
+            <author>Le White, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88084</idno>
+            <idno type="STC">Wing L1833</idno>
+            <idno type="STC">Thomason E988_26</idno>
+            <idno type="STC">ESTC R202811</idno>
+            <idno type="EEBO-CITATION">99862982</idno>
+            <idno type="PROQUEST">99862982</idno>
+            <idno type="VID">168641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168641)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to a letter sent to a gentleman of the Middle-Temple. Concerning the late various and strange changes of the times, together with certain queries not unworthy the consideration of the High Court of Parliament; and of all honest and religious men, that tenders the peace and wellfare of the Church and English nation. And also a clear way discovered whereby at least a million of money may be bought into the publick treasury for the use of the Common-wealth. By Tho. Le VVhite. Esq.</title>
+                  <author>Le White, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 30.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Internal revenue --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168641:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>AN ANSVVER TO A LETTER SENT To a Gentleman of the Middle-Temple.</p>
+            <p>CONCERNING The late various and ſtrange changes of the times, together with certain Queries not unworthy the conſideration of the High Court of Parliament; and of all honeſt and Re<g ref="char:EOLhyphen"/>ligious men, that tenders the Peace and wellfare of the Church and <hi>Engliſh</hi> Nation.</p>
+            <p>And alſo a clear way diſcovered whereby at leaſt a Million of Money may be brought into the Publick Treaſury for the uſe of the <hi>Common-wealth.</hi>
+            </p>
+            <q xml:lang="lat">
+               <p>Lege &amp; perlege,</p>
+            </q>
+            <q>
+               <p>Read, re-read, and underſtand.</p>
+            </q>
+            <p>
+               <hi>By Tho. Le VVhite.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by J. <hi>Clowes,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168641:2"/>
+            <!-- PDF PAGE 115 -->
+            <pb n="1" facs="tcp:168641:2"/>
+            <!-- PDF PAGE 115 -->
+            <head>AN ANSVVER TO A Letter ſent to a Gentleman of the Middle-Temple.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have ſeriouſly conſidered the contents of your Letters, and the admiration wherewith it ſeems you are ſurprized on the vari<g ref="char:EOLhyphen"/>ous revolutions, and late ſtrange changes befallen the three Na<g ref="char:EOLhyphen"/>tions, within theſe twenty years paſt. In anſwer whereunto ac<g ref="char:EOLhyphen"/>cording to the mode of the times, I have herein ſent you ſome few Queries which concerns us all to remember, that nothing in the world is ſtable and permanent, but tranſitory and uncer<g ref="char:EOLhyphen"/>tain, variable and unconſtant, which ought to put us in mind of our Celeſtial reſt, and eternal happineſs. At preſent I ſhall only point out unto you, ſuch changes and alterations ſo lately befell us in <hi>England,</hi> as they relate to ſome other more ancient and forreign preſidents, in changes of Governments. And firſt,</p>
+            <p n="1">1. Whether the <hi>Athenians</hi> (thoſe greedy news-mongers) were more ſafe and happy under the Government of one ſingle Tyrant, than in their choiſe and change of thirty perſons, that took upon them the power and Government of their Republick.</p>
+            <p n="2">2. Whether the Senate of <hi>Rome</hi> ſome times conſiſting of 200 choiſe perſons, were not in proceſs of time curbed, and controld in their power and tranſactions by the Tribunes of the people.</p>
+            <p n="3">3. Whether again, both the Power and Authority of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Senate and Tribunes, were not overpowred by their Dicta<g ref="char:EOLhyphen"/>tors more eſpecially, after that <hi>Julius Caeſar,</hi> became <hi>Perpetuus Dictator,</hi> and aſſumed to himſelf the Supreme power in the Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p n="4">4. Whether then after all theſe changes of power amongſt the <hi>Romans,</hi> their own Armys at laſt did nor alter all their former
+<pb n="4" facs="tcp:168641:3"/>
+               <!-- PDF PAGE 116 -->
+frames of Government, from and after their cutting off <hi>Tarqui<g ref="char:EOLhyphen"/>us Superbus,</hi> their laſt Tyranr King until <hi>Augustus</hi> time, and made choiſe of ſuch Emperors, as they pleaſed to elect, and in the concluſion, whither that vaſt Empire fell not in pieces? (I omit to remember you of the period and change of thoſe three foregoing Monarchies of the <hi>Aſſirians, Medes, Perſians</hi> and <hi>Greeks</hi>) whence you may find, that all changes, and alterations of powers and Governments, are no new things or to be won<g ref="char:EOLhyphen"/>dred at; but to come to our own caſe.</p>
+            <p n="5">5. Whether this preſent Parliament was not from their very firſt ſitting down, leſſened in their number by the late King, and after that<g ref="char:punc">▪</g> diſrobed of much of their Power and number by their own Army<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Army Officers, on which conſideration it reſts yet queſtion, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Whether on any quarrel or diſcontent of the preſent Army, the like may not be attempted on theſe that now ſit, for that they which have the ſword in their hands, will<g ref="char:punc">▪</g> or may (on any occaſion) be Maſters of the Powers in Govern<g ref="char:EOLhyphen"/>ment?</p>
+            <p n="6">6. Whether the Parliament in the beginning of the late War, did not make choiſe of the Earl of <hi>Eſſex</hi> and the Lord <hi>Fairfax</hi> ſucceſſively in their Order, to be their Commanders in chief, over their Armies, (only in <hi>England</hi>) and in <hi>May</hi> 1650 made choiſe of <hi>Oliver Cromwel</hi> before all others, for their General and Commander in chief over all their Armies both in <hi>England, Scotland,</hi> and <hi>Ireland;</hi> in which great truſt and Command, how he behaved himſelf, in ſtopping that wide orifice of blood, which prodigiouſly ran throughout the three Kingdoms, and reduced them all into peace and quietneſſe, (as we may ſay in a moment of time) to the admiration of the World, all the three Nations have juſt cauſe to remember, and not forget that Almighty God aſſiſted him, and made him inſtrumental in that great work, be<g ref="char:EOLhyphen"/>yond common Expectation?</p>
+            <p n="7">7. Whether <hi>Oliver Cromwel,</hi> on his aſſuming the Supream Power of Government, between himſelf and a Parliament, had not good reaſon to induce him, if not neceſſitated ſo to do, if he intended to ſave his honour, and the reputation whith deſerved<g ref="char:EOLhyphen"/>ly he had gotten with the people, and all <hi>Christendom?</hi>
+            </p>
+            <p n="8">
+               <pb n="5" facs="tcp:168641:3"/>
+               <!-- PDF PAGE 116 -->8. Whether on due conſideration of the great and ſtrange changes of theſe times; we may not yet feare more ſtrange and tragicall changes then we have yet ſeen; if we take the great &amp; crying ſins of this Nation into our ſerious conſideration, more eſpecially that intended interview between the Kings of <hi>France</hi> and <hi>Spain</hi> at <hi>Bayoon July</hi> next, which promiſeth no very good Omen to <hi>England?</hi>
+            </p>
+            <p n="9">9. Whether on that probable concluſion of peace and amity between thoſe two Potent Kings, another ſingle Perſons claim and intereſt may not therein be tacitely included, which may un<g ref="char:EOLhyphen"/>happily turne the ſcale of our ſucceſs, together with the preſent Government in this green, unſetled, and diſtracted republique into another Sceen of blood and deſolation, by the Invaſive forces of ſundry united and confederated Princes?</p>
+            <p n="10">10. Whether then in ſuch a caſe, all honeſt hearts may not have juſt cauſe to wiſh againe for <hi>Oliver Cromwels</hi> Head-peace, his courage and conduct, and that hence-forth his worth, merits, and memory may be no longer ingratefully blaſted by idle and li<g ref="char:EOLhyphen"/>centious Libellors, his name and fame, kindred and friends de<g ref="char:EOLhyphen"/>famed, when as this too frequent abuſe is ſo difuſive, that it di<g ref="char:EOLhyphen"/>lates with boldneſs to the defamation of moſt of the particular Members that now ſit at the Helme: <hi>ſat ſapientibus,</hi> only it's wiſht that they would ſeriouſly take this good old ſentence into their conſideration; <hi>Iſtud est ſapere non ſolum eaquae ante pedes videre, ſed futura proſpicere,</hi> and ſpeedily indeavour to make all things more ſafe at home then they are, and to remember to make good the publique Faith, cheriſh their old friends, leaſt they inforce them to turn new foes, neither to ſlight their Pe<g ref="char:EOLhyphen"/>titions, and ſuch of their Propoſalls, without hearing or inſpecti<g ref="char:EOLhyphen"/>on, as would readily and legally both right them for their loanes loſſes, and ſufferings, and pay the publique debts, ſave them<g ref="char:EOLhyphen"/>ſelves the labour of borrowing, and in giving ear and counte<g ref="char:EOLhyphen"/>nance to ſome Petitions, that are needleſſe and reaſonleſſe as for inſtance?</p>
+            <p n="11">11. Whether they that preſs them ſo much for liberty of conſcience, do underſtand what Conſcience is; and whether on grant of their deſires the publique liberty ſhall not in ſome ſhort time be laid in the duſt?</p>
+            <p n="12">
+               <pb n="6" facs="tcp:168641:4"/>
+               <!-- PDF PAGE 117 -->12. Whether on grant of their deſires, they will ſubmit to any other regulations of Parliament, then ſuch, as may ſute with their own perverſe wills and fanatick opinions?</p>
+            <p n="13">13. Whether, as now the caſe ſtands in the various, and multitudinous Sects Schiſmes, &amp; brain-ſick opinions of the times, there ought not to be enacted ſome coerſive Law that may in<g ref="char:EOLhyphen"/>force conformity to ſuch Parliamentary Ordinances as ſhall be thought fit for all men to ſubmit unto, as for inſtance the 39. Article of our Church, <hi>&amp;c.</hi> leaſt we all run headlong into Sects. Schiſmes and confuſion?</p>
+            <p n="14">14. Whether ſuch as ſo much preſs and moleſt the Parlia<g ref="char:EOLhyphen"/>ment, that Tythes may be taken away, will in that caſe be ſo much guilty of ſo much charity, as to allow ſome compitent yearly ſtipend towards the maintenance of ſome Godly, Lear<g ref="char:EOLhyphen"/>ned, and paynfull Miniſter to inſtruct them in the way of their Salvation?</p>
+            <p n="15">15. Whether, that Antient, Juſt, and Cuſtomary way of pay<g ref="char:EOLhyphen"/>ing Tythes, from all antiquity, ought in reaſon, policy, or Reli<g ref="char:EOLhyphen"/>gion be taken away?</p>
+            <p n="16">16. Whether the Conſequence, that neceſſarily will follow the taking away of Tythes, can be conceived an advance, either to the Church, or Learning, when the Inhabitants of every Pariſh ſhall be diſrobed of their ſetled Miniſters, and ſpiritual com<g ref="char:EOLhyphen"/>forters ought not to be timely thought on before any alteration be made therein, which otherwiſe may ſo diſcontent the religious people of this Land, and in future trouble the Parliament to re<g ref="char:EOLhyphen"/>ſettle things as they were, and themſelves found guilty of the late Kings tax, that they undid that which before was well done?</p>
+            <p n="17">17. Whether thoſe Commiſſioners deſigned by the Parlia<g ref="char:EOLhyphen"/>ment for ejecting of deboiſt and ſcandalous Miniſters, have done well, wiſely, or conſcionably to eject ſo many, Pious, Learned and Orthodox Divines (amongſt others of ill converſations) be<g ref="char:EOLhyphen"/>fore they were provided of more able and pious ones in their places, and out of favour or affection to retaine ſundry Malig<g ref="char:EOLhyphen"/>nants in their livings as it may be proved?</p>
+            <p n="18">18. Whether it hath been handſomely carried on by thoſe truſted Commiſſioners to rent themſelves, the moſt conſiderable
+<pb n="7" facs="tcp:168641:4"/>
+               <!-- PDF PAGE 117 -->
+livings in a clandeſtine way, or to let them to their Sons, Friends or Servants, at the third or fourth part of their yearely value, and to leave 300 Churches in <hi>Wales</hi> unfurniſhed, more then once in a quarter ſupply'd by ſome few, illiterate, headdy and igno<g ref="char:EOLhyphen"/>rant mechanicks; and as yet no juſt account given to the State, or the poor ejected Miniſters paid their fifths?</p>
+            <p n="19">19. Whether it be not requiſite that ſome honeſt Gentlemen of thoſe parts be forthwith commiſſioned to examine this moſt notorious abuſe, whereby 100000.l. at leaſt may juſtly be brought into the publique Treaſury?</p>
+            <p n="20">20. Whether it be not expedient, that a Regiſter be ordain'd in every County forthwith to Regiſter all bargaines and ſales of Lands, in Fee, Leaſes for lives, or years, <hi>&amp;c:</hi> at the Natives own doores for the tenth part of the charge, they now uſually pay for their Inroowlments at <hi>London,</hi> and that none be admitted to ſuch places, but loſers and lenders to the Parliament in the late Wars, (left hitherto without any reparation) and that good ſecu<g ref="char:EOLhyphen"/>rity be given by ſuch for the faithfull diſcharge of their truſt, as not above ſeven yeares ſince, it was reſolved to be done in Par<g ref="char:EOLhyphen"/>liament?</p>
+            <p n="21">21. Whether in caſe a probable and ready way may be de<g ref="char:EOLhyphen"/>monſtrated, how to turne the hearts of the people (ſo much de<g ref="char:EOLhyphen"/>voted to Kingſhip) to comply with the preſent Government, may not be acceptable and embraced by the Parliament that now ſits?</p>
+            <p n="22">22. Whether it be not fitting that Doctor <hi>Chamberlens</hi> Pro<g ref="char:EOLhyphen"/>poſals in his Printed papers, for payment of the Armies, and ad<g ref="char:EOLhyphen"/>vance of Trade, <hi>&amp;c:</hi> without Aſſeſsments on the Natives) be forthwith recommended to the conſideration of a Committee of Parliament?</p>
+            <p n="23">23. Whether it ſuits not with good reaſon, that the Parlia<g ref="char:EOLhyphen"/>ment ſhould look back on their Acts for the confirmation of the Eſtates of Purchaſers, in as much as ſundry of them, what by their own craft or fraud of the Surveyors, have ſurreptitiouſly gotten their Lands for little or nothing, very much under the rates ſet down by the Parliament; and that an Act of reſumption be thought on when the fraud is viſible, whereby not ſo little as 10000000 l. at leaſt may be brought into the publique Trea<g ref="char:EOLhyphen"/>ſury?</p>
+            <p n="24">
+               <pb n="8" facs="tcp:168641:5"/>
+               <!-- PDF PAGE 118 -->24. Whether it ſtands with the honour of the Parliament, that an Act fraudulentyl procured, to the loſs of 100000 .l. which might have been advanced for the benefit of the State, ſhould within one month of its enacting be fruſtrated in the intents thereof; witneſſe the Act or Ordinance of Parliament, made in the behalf of the Gentlemen of South <hi>VVales,</hi> for their bearing Armes againſt the Parliament, only paying 20000 l. as a mult for their Malignancy?</p>
+            <p>Thus Noble Sir; I have ſent you the conceptions of your Friend, which are no other then the opinions of many more able Judgments, with my hearty Prayers to Almighty God to bleſſe all their honeſt and prudent conſultations, both in redreſſing all ſuch things that are amiſſe, and in enacting ſuch good Laws as may farther conduce to the better ſettling of this unſettled Church and Commonwealth, only I appeale to your more ma<g ref="char:EOLhyphen"/>ture Judgment, whether in theſe ſad times of diſtractions, Schiſmes, Sects, ſeperated Congreations and Conventicles, par<g ref="char:EOLhyphen"/>tyes, factions, publique and private diſcontents, variety and diſ<g ref="char:EOLhyphen"/>pariety of affections in opinion; Whether I ſay againe that unity and agreement be not the only way, and meanes to fortifie and uphold this new republique, and render it impregnable, againſt all Plots, practiſes, either from abroad, or at home; but I feare that under the umbrage of ſupporting the good old cauſe, the new cauſe may fall to the ground through ſuch incenſed, nume<g ref="char:EOLhyphen"/>rous, and diſcontented partyes riſen up in addition to the former malecontents, and through the preſent and frequent abuſe of the two late Protectors, their whole Family and Friends, doubtleſs this is not the way to our ſafety and ſecurity, or for the advance of the Church and State, <hi>ſed frustra fit per plura, quod fieri po<g ref="char:EOLhyphen"/>test per pautiora,</hi> ſo reſts</p>
+            <closer>
+               <signed>Your very loving and most affectionate friend, <hi>T.L.W.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
